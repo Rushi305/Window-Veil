@@ -1,9 +1,28 @@
-# Jv industries
+Project Title
+The name of the Project
 
-By Rushikesh Pawar (intern at JV industries)
+Demo link:
+Access my site at google.com
 
-## <a href="http://localhost:3000/">LIVE DEMO</a> 
 
+Technologies
+I used html, css, javascript, react etc.
+
+Setup
+download or clone the repository
+After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
+
+Approach
+I adopted the BEM naming style for my css class names and ...
+
+Status
+Windowveil is still in progress. Version 2 will be out soon.
+
+Credits
+List of contriubutors:
+
+License
+MIT license @ RushikeshPawar
 
 
 
